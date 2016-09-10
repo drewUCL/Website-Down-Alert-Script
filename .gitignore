@@ -1,0 +1,12 @@
+#Compiled python files (while testing these frequently appear)
+*.pyc
+
+# my config file
+*.yaml
+
+#Misc and standard ignores
+*.DS_Store
+*.egg-info/
+*.egg
+build
+*~
